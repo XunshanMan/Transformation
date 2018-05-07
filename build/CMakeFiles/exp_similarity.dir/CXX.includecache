@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jk/catkin_lzw/src/topomatcher/src/Transformation/src/Transformation.h
+vector
+-
+eigen3/Eigen/Dense
+-
+
+/home/jk/catkin_lzw/src/topomatcher/src/Transformation/src/exp_similarity.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+Transformation.h
+/home/jk/catkin_lzw/src/topomatcher/src/Transformation/src/Transformation.h
+

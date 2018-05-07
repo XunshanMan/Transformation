@@ -12,7 +12,7 @@
 #define __TRANSFORMATION__ESTIMATION__
 
 #include <vector>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 /************************************************************************/
 /* 1. Rigid Transformation Estimation									*/
